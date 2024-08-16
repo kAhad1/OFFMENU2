@@ -621,29 +621,6 @@ padding-left: 0;
         
      
      }
-     @media (max-width:320px) {
-        .menu{
-            overflow: hidden;
-            font-size: 10px;
-        }
-        .Img1{
-            position: absolute;
-             left: 70rem;
-            
-         }
-         
-         .Img2{
-            height: 60vh;
-            
-             
-         }
-         .Img3{
-            top: 110rem;
-            left: 120rem;
-            
-         
-         }
-     }
-}
+    }
 
 
