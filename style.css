@@ -148,7 +148,7 @@ body {
 .card4 a:hover,
 .card5 a:hover,
 .card6 a:hover {
-    opacity: 1;
+opacity: 1;
 }
 
 .sub_cards {
@@ -210,15 +210,15 @@ body {
 }
 .Img1{
     height: 30vh;
-    top: 10vh;
-    left: 600px;
+    /* top: 10vh;
+    left: 600px; */
     border-radius: 30px; 
     rotate: 7deg;
 }
 .Img2{
     height:70vh; 
     top: 120vh; 
-    left: 60vw; 
+    left: 80vw; 
     border-radius: 20px; 
     rotate: 5deg;
 }
@@ -251,13 +251,12 @@ body {
     .menu{
         overflow: hidden;
     }
-    .Img1{
-       position: absolute;
-        left: 20rem;
-      
-    }
+    
+    /* .Img1{
+     width: 40%; 
+    } */
    
-    .Img2{
+    /* .Img2{
        height: 40vh;
         margin-right: 10vw;
         
@@ -265,7 +264,7 @@ body {
     .Img3{
     
        margin-left: 25rem;
-    }
+    } */
       
 }
 
@@ -321,13 +320,13 @@ body {
        .menu{
         overflow: hidden;
     }
-    .Img1{
+    /* .Img1{
        position: absolute;
         left: 13rem;
       
-    }
+    } */
    
-    .Img2{
+    /* .Img2{
        height: 40vh;
         margin-left: 6rem;
         
@@ -335,7 +334,7 @@ body {
     .Img3{
     
        margin-left: 20rem;
-    }
+    } */
       
 }
 @media  (max-width:440px){
@@ -360,7 +359,7 @@ body {
 .menuh1{
     font-size: 2px;
 }
-.Img1{
+/* .Img1{
    position: absolute;
     left: 13rem;
   
@@ -374,7 +373,7 @@ body {
 .Img3{
 
    margin-left: 10rem;
-}
+} */
 .off-menu-card{
 width: 20rem;
 margin-left: 10vw;
@@ -396,13 +395,13 @@ padding-left: 0;
     .menuh1{
         font-size: 2px;
     }
-    .Img1{
+    /* .Img1{
        position: absolute;
         left: 13rem;
       
-    }
+    } */
     
-    .Img2{
+    /* .Img2{
        height: 40vh;
         margin-left: 6rem;
         
@@ -410,7 +409,7 @@ padding-left: 0;
     .Img3{
     
        margin-left: 10rem;
-    }
+    } */
 
 }
 @media (min-width:769px) and (max-width:1024px) 
@@ -425,13 +424,13 @@ padding-left: 0;
     .menuh1{
         font-size: 2px;
     }
-    .Img1{
+    /* .Img1{
        position: absolute;
         left: 25rem;
       
-    }
+    } */
     
-    .Img2{
+    /* .Img2{
        height: 40vh;
         margin-left: 6rem;
         
@@ -440,7 +439,7 @@ padding-left: 0;
        top: 65rem;
        left: 50rem;
       
-    }
+    } */
 }
 @media (min-width:1025px) and (max-width:1440px) {
     
@@ -473,11 +472,11 @@ padding-left: 0;
     .menu{
         overflow: hidden;
     }
-    .Img1{
+    /* .Img1{
         position: absolute;
          left: 40rem;
         
-     }
+     } */
      
      .Img2{
         height: 50vh;
@@ -515,7 +514,7 @@ padding-left: 0;
         font-size: 2rem;
         text-align: center;
     }
-    .Img1{
+    /* .Img1{
         position: absolute;
          left: 45rem;
        
@@ -530,7 +529,7 @@ padding-left: 0;
         top: 66rem;
         left: 55rem;
         
-     }
+     } */
     .circle1 {
         
         width: 2.3rem;
@@ -604,7 +603,7 @@ padding-left: 0;
     .menu{
         overflow: hidden;
     }
-    .Img1{
+    /* .Img1{
         position: absolute;
          left: 70rem;
         
@@ -620,7 +619,7 @@ padding-left: 0;
         left: 120rem;
         
      
-     }
+     } */
     }
 
 
